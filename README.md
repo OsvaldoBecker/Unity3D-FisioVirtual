@@ -1,12 +1,12 @@
-# Fisio Virtual: Motion capture game to help people execute a kinesiotherapy protocol
+# Fisio Virtual: A motion capture game to help people execute a kinesiotherapy protocol
 
-Developed using the Orbbec Astra sensor
+Developed using the Orbbec Astra capture sensor which is supported by Nuitrack middleware
 
 Compiled for Windows 10
-- Supports 8 exercises, with option to reorder
-- Has interface in Brazilian Portuguese
+- There are 8 exercises available
 - Has male and female avatar
-- Has options to configure the exercises and even the game climate
+- Has interface in Brazilian Portuguese
+- Has options to configure the exercises (sequence, sets, repetitions, interval time and more), interface sounds and even the game climate
 
 Softwares
 - Unity 3D
