@@ -29,3 +29,8 @@ Softwares
 
 # Settings screen
 ![](Screenshots/Settings.png)
+
+Audiovisual content source:
+- cc0textures.com
+- textures.com
+- zapsplat.com
