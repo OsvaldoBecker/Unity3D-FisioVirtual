@@ -30,7 +30,6 @@ Softwares
 # Settings screen
 ![](Screenshots/Settings.png)
 
-Audiovisual content source:
-- cc0textures.com
-- textures.com
-- zapsplat.com
+Credits:
+- Contains assets from [CC0 Textures](https://cc0textures.com/)
+- Contains sound effects from [ZapsPlat](https://www.zapsplat.com)
